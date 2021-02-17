@@ -9,4 +9,10 @@ class Arithmetic
         $this->result = $num1 + $num2;
         return $this->result;
     }
+
+    public function subtract($num1, $num2)
+    {
+        $this->result = $num1 - $num2;
+        return $this->result; 
+    }
 }
