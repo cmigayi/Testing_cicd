@@ -1,0 +1,12 @@
+{
+    "name": "cilo/testing_cicd",
+    "authors": [
+        {
+            "name": "cecil",
+            "email": "migayicecil@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
